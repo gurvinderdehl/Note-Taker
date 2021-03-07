@@ -21,7 +21,7 @@
 * There are no Contributors for this Project.
 ## Instructions
 * Instructions will be shown below in a video :
-<img src="" alt=""/>
+<img src="assets/zoom.gif" alt="Note Taker"/>
 
 ## License
 * licensed under the [MIT License](LICENSE)
@@ -31,4 +31,4 @@
 
 ## URLs 
 * The URL of the GitHub repository: https://github.com/gurvinderdehl/Note-Taker
-* The Link to the deployed app: 
+* The Link to the deployed app: https://vast-chamber-70381.herokuapp.com/
