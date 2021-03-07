@@ -1,4 +1,3 @@
-
 // Dependencies
 const fs = require("fs");
 
@@ -22,8 +21,9 @@ module.exports = function (app) {
         response.json(data);
     });
 
-     // API POST Request
-     app.post("/api/notes", (request, response) => {
+
+    // API POST Request
+    app.post("/api/notes", (request, response) => {
 
         // Extracted new note from request body.  
         const newNote = request.body;
